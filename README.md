@@ -32,8 +32,10 @@ This application allows you to write and save notes, enabling them to organize t
   **THEN** I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears.
 
 ## Screenshot
-https://tinaika19.github.io/Note_Taker/
+
+![Website screenshot](public/assets/css/note.JPG)
 
 ## Link
-https://tinaika19.github.io/Note_Taker/
+[note.JPG](https://tinaika19.github.io/Note_Taker/
+)
 
