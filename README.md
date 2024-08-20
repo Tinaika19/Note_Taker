@@ -36,6 +36,6 @@ This application allows you to write and save notes, enabling them to organize t
 ![Website screenshot](public/assets/css/note.JPG)
 
 ## Link
-[note.JPG](https://tinaika19.github.io/Note_Taker/
-)
+https://tinaika19.github.io/Note_Taker/
+
 
